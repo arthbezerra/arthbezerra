@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1>Hello, I'm Arthur Rodrigues</h1>
+
+<p>👤 I’m passionate about technology, art, and learning new things. Here, you’re going to see my projects and what I’ve learned.
+<p>🎓 Undergraduate student in Systems Analysis and Development at <a href="https://www.ifsp.edu.br/%C2%A0">IFSP - Instituto Federal de Ciência e Tecnologia</a></p>
+<p>🎯 My objective is to work as a backend developer</p>
+
+<hr>
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,mysql)](https://skillicons.dev)
+
 
 <!--
 **arthbezerra/arthbezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
