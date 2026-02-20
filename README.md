@@ -4,13 +4,15 @@
 <p>🎯 My objective is to work as a data analyst</p>
 
 <h1>Tools</h1>
-<p>Languages: Python, SQL, Excel</p>
-
-<hr>
+<p>Languages: Python, SQL, Excel, Power BI</p>
 
 [![My Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev)
 
-
+<h1>Contact Me</h1>
+<p>Email: arthurroodrigues177@gmail.com</p>
+<p>LinkedIn: www.linkedin.com/in/
+arthrodrigues
+</p>
 <!--
 **arthbezerra/arthbezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
