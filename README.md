@@ -8,9 +8,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev)
 
-<h1>Contact Me</h1>
-<p>Email: arthurroodrigues177@gmail.com</p>
-<p>LinkedIn: <a href="at <a href="https://www.linkedin.com/in/arthrodrigues/">Arthur Rodrigues</a></p>
 <!--
 **arthbezerra/arthbezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
