@@ -1,6 +1,6 @@
 <h1>Hi, I'm Arthur Rodrigues!</h1>
 
-<p>🎓 Undergraduate student in Systems Analysis and Development at <a href="https://www.ifsp.edu.br/%C2%A0">IFSP - Instituto Federal de Ciência e Tecnologia</a></p>
+<p>🎓 Undergraduate student in Science and Technology at UFABC - Universidade Federal do ABC</p>
 <p>🎯 My objective is to work as a data analyst</p>
 
 <h1>Tools</h1>
