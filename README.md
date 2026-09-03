@@ -1,13 +1,6 @@
-<h1>Hi, I'm Arthur Rodrigues!</h1>
+<p>Hi, my name is Arthur Bezerra, I’m a Brazilian Science & Technology student at <a href="https://www.ufabc.edu.br/">UFABC</a>, aiming to work with data analytics and AI. 
 
-<p>🎓 Undergraduate student in Science and Technology at UFABC - Universidade Federal do ABC</p>
-<p>🎯 My objective is to work as a data analyst</p>
-
-<h1>Tools</h1>
-<p>Languages: Python, SQL, Excel, Power BI</p>
-
-[![My Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev)
-
+<a href="https://www.credly.com/badges/c85c5d3b-a780-48ec-9369-834104751c0a">1x AWS Certified</a>. Currently deep in Python, SQL and cloud data tools.</p>
 <!--
 **arthbezerra/arthbezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
